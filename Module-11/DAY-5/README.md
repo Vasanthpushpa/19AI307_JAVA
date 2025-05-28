@@ -13,8 +13,8 @@ To demonstrate a java program to display the containskey of 104 and to retrieve 
  ```
 /*
 Program to implement a HASHMAP
-Developed by: SHAKTHI KUMAR S
-RegisterNumber: 212222110043
+Developed by: Vasanth P
+RegisterNumber: 212222240113
 */
 ```
 

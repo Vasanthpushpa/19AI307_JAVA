@@ -20,8 +20,8 @@ To implement method overloading in Java to demonstrate compile-time polymorphism
  ```
 /*
 Program to implement a Method Overloading in Java
-Developed by: SHAKTHI KUMAR S
-RegisterNumber: 212222110043
+Developed by: Vasanth P
+RegisterNumber: 212222240113
 */
 ```
 
