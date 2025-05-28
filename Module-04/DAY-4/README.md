@@ -38,8 +38,8 @@ End the program.
  ```
 /*
 Program to implement a final & Static using Java
-Developed by: SHAKTHI KUMAR S
-RegisterNumber: 212222110043
+Developed by: Vasanth P
+RegisterNumber: 212222240113
 */
 ```
 
